@@ -1,0 +1,1 @@
+For Next time dont do CRA, do VITE.
